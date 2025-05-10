@@ -25,3 +25,7 @@ This project is a real-time weapon detection system built with Python, OpenCV, a
 git clone https://github.com/your-username/weapon-detector.git
 cd weapon-detector
 pip install -r requirements.txt
+
+
+---
+```
