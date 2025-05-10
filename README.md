@@ -25,7 +25,7 @@ This project is a real-time weapon detection system built with Python, OpenCV, a
 git clone https://github.com/DADieAnotherDay/ArmsAlert.git
 cd ArmAlert
 pip install -r requirements.txt
-python3 ArmAlert.py
+python3 ArmsAlert.py
 
 
 ---
